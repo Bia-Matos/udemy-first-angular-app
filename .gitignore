@@ -1,0 +1,17 @@
+# Arquivos de compilação
+/dist/
+/node_modules/
+
+# Arquivos de configuração
+/.vscode/
+/.idea/
+*.iml
+.idea/
+
+# Arquivos de dependência
+package-lock.json
+npm-debug.log
+
+# Arquivos de ambiente
+.env
+.env.*
